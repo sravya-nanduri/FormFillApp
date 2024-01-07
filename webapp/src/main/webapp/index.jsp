@@ -1,8 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Yayyyy sravya you did it</h1>
-    <p>You did it again</p>
-    <p>Almostttt theree!!</p>
+    <p>You did it again!!!,Almost there</p>
     <hr>
 
     <label for="name"><b>Name</b></label>
